@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="RDW" title="RDW" src="./img/logo.png" />
+    <img alt="RDW" height="390px" width="390px" title="RDW" src="https://github.com/enzo-b-pagliacci/ResponsiveWebDevelopment/blob/main/logo/Responsive%20web%20developmente.png" />
 </h1>
 <h4 align="center"> 
 	🚧 ✏ Em aprendizagem... 🚧
