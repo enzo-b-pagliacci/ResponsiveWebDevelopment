@@ -1,0 +1,23 @@
+*Arrow functions
+-tira o "function" e coloca "const", ou "var" ou "let", o
+mais norlam é const
+-const sum = (a,b) => a + b
+-Documentação da arrow function: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+-metodo mais comun de se usar:
+	const soma = (a,b) =>{
+    		console.log(a+b);
+    		return a+b
+	}
+-add event listener com arrow funtion:
+	botao.addEventListener('click', ()=>{
+    		soma(10,10);
+	});
+
+*React
+-Para que as mudanças da tela seka, harmoniosas, ele uti-
+liza o Virtual DOM (DOM) que gerencia os componentes em
+memória e sincroniza
+-O react trabalha com componentes e só precisa carregar a
+parte da página que foi alterada
+-Trabalha com fluxo unidirecional de informações (do pai
+pro filho) - informação assincrona
